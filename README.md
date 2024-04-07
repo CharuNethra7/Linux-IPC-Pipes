@@ -24,8 +24,8 @@ Testing the C Program for the desired output.
 # PROGRAM:
 
 ## C Program that illustrate communication between two process using unnamed pipes using Linux API system calls
+```
 
-$ cat pipe1.c 
 #include<stdio.h>
 #include<stdlib.h>
 #include<sys/types.h> 
@@ -86,7 +86,7 @@ void client(int wfd,int rfd)
 }
 
 
-
+```
 
 
 ## OUTPUT
@@ -94,7 +94,7 @@ void client(int wfd,int rfd)
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
-
+```
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>
@@ -110,7 +110,7 @@ int main()
 
 
 
-
+```
 
 ## OUTPUT
 
