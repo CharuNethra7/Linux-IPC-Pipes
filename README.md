@@ -91,6 +91,9 @@ void client(int wfd,int rfd)
 
 ## OUTPUT
 
+ ![Screenshot from 2024-04-04 10-26-20](https://github.com/22009011/Linux-IPC-Pipes/assets/118343461/91914ad1-b5a7-4674-ad48-a876bf25fa8f)
+
+
 
 
 ## C Program that illustrate communication between two process using named pipes using Linux API system calls
@@ -113,6 +116,8 @@ int main()
 ```
 
 ## OUTPUT
+
+![Screenshot from 2024-04-04 10-29-42](https://github.com/22009011/Linux-IPC-Pipes/assets/118343461/4bf7e9b2-31c2-4970-8c65-0b078a78df55)
 
 
 # RESULT:
